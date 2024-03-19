@@ -26,6 +26,8 @@ Once the payment is completed, an invoice is generated, and an email containing 
 - HTML
 - CSS (SCSS)
 - JavaScript
+![pay]()
+![pay](assets/img/logo/pay.png)
 
 ## Payment Gateway
 

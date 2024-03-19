@@ -13,7 +13,7 @@ Through our efforts, we strive to create a world where every paw is valued and e
 
 
 # Payment Gateway Integration
-
+![pay](assets/img/logo/paypage.png)
 This project was completed as part of the Graduate Rotational Internship Program (GRIP) at The Spark Foundation. The task was to create a simple website with payment gateway integration.
 
 ## Description
@@ -26,11 +26,12 @@ Once the payment is completed, an invoice is generated, and an email containing 
 - HTML
 - CSS (SCSS)
 - JavaScript
-![pay]()
-![pay](assets/img/logo/pay.png)
+
+
+
 
 ## Payment Gateway
-
+![pay](assets/img/logo/pay.png)
 - Payment processing is handled by Checkout Page builder, which is powered by Stripe.
 - The project utilizes a Stripe test account for payment integration.
 

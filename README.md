@@ -1,4 +1,4 @@
-![Your Brand Logo](path/to/your/logo.png)
+![Your Brand Logo](assets/img/logo/flogo.png)
 
 # Paws of Hope
 

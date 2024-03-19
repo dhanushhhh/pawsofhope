@@ -1,9 +1,10 @@
-![Your Brand Logo](assets/img/logo/flogo.png)
+![Your Brand Logo](assets/img/logo/flogo.png)                                        
 
 # Paws of Hope
 
 Help us save lives, one paw at a time.
 
+![Your bg](assets/img/gallery/about1.png)
 ## About Paws Of Hope Foundation
 
 Paws of Hope Foundation is on a mission to provide love and shelter to helpless animals. We rescue, rehabilitate, and advocate for animals who have been abandoned, injured, or mistreated, offering them a lifeline of hope and healing. With your support, we can continue to make a difference in the lives of our furry companions, one loving gesture at a time.
